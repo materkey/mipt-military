@@ -5,12 +5,12 @@
 }
 
 #header-wrapper {
-    background: #1072BA; /*8451a1 */
+    background: #0e5e99; /*8451a1 */
     border-bottom: 4px solid #4C79BC; /*9c6fb6 */
 }
 /* Background color of the menu */
 #sidebar {
-  background-color: <color>;
+  background-color: #152A38;
 }
 
 /* Background color of the menu, when clicked */
